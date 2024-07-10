@@ -1,0 +1,26 @@
+body {
+    background-color: #e9ecef;
+  }
+  
+  .navbar-brand img {
+    margin-right: 10px;
+  }
+  
+  .profile-card {
+    background-color: #fff;
+    border-radius: 20px;
+  }
+  
+  .search-bar input {
+    border-radius: 20px;
+  }
+  
+  .card {
+    border-radius: 20px;
+  }
+  
+  .main-content-card {
+    background-color: #fff;
+    border-radius: 50px;
+  }
+  
